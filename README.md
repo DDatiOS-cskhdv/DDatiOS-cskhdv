@@ -1,2 +1,2 @@
 
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=DDatiOS-cskhdv&show_icons=true&theme=dark&hide_border=true)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DDatiOS-cskhdv?cardType=level&theme=github-dark&fontFamily=ABeeZee&preferLogin=false)
